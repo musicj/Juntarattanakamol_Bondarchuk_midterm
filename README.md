@@ -52,5 +52,3 @@ Apapat Juntarattanakamol and Dina Bondarchuk
 ## License
 
 MIT
-
-![conflict](img/ffff)
